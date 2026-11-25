@@ -1,5 +1,5 @@
 # Python Lab Exercises - Tasks 1 to 18
-# Name: HARIKUMARAN S M
+# Name: Abhishek N
 # USN: 25BTRAD002
 
 # Task 1 - Print Name, Department, College
@@ -58,7 +58,7 @@ print("Programming is Easy")
 
 
 # Task 10 - Create a variable called name
-name = "Hari Kumaran"
+name = "Abhishek N"
 print(name)
 
 
